@@ -13,3 +13,7 @@ Here comes the introduction
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+### Copyright
+
+2018
