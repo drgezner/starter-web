@@ -24,4 +24,4 @@ Please fork this repo and then... who knows
 
 #### Version
 
-Version 0.9.2
+Version 0.9.3, Test branch, gitHub direct commit
