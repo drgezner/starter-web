@@ -19,3 +19,7 @@ Please fork this repo and then... who knows
 ### Copyright
 
 2018 KRH
+
+#### Version
+
+Version 0.9.2
