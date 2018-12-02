@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Please ask for a code review always
 
 # TECHNOLOGY COLOPHON
 
