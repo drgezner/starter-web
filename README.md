@@ -18,4 +18,4 @@ Please fork this repo and then... who knows
 
 ### Copyright
 
-2018
+2018 KRH
