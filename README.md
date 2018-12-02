@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Here comes the introduction
 Including stashing
+And manipulating them
 
 ## Deployment
 
